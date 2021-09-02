@@ -13,6 +13,3 @@ textMsg.textContent = 'Hello world! Used by javascript';
 const titleMsg = document.querySelector('#title');
 titleMsg.textContent = 'WOW';
 
-document.querySelector('html').onclick=function(){
-    alert('doggy!');
-}
